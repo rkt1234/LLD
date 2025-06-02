@@ -1,0 +1,7 @@
+Steps to solve any LLD problem
+
+1. Gather the requirements
+2. Identify the classes, enums and interfaces
+3. Draw the relations between the classes
+4. Code out the design
+5. Look for the extension with design principles/patterns
