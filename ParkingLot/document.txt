@@ -1,0 +1,22 @@
+Functional Requirements:
+1.The parking lot can have multiple levels.
+
+2.Each level has multiple parking spots.
+
+3.There are three types of vehicles: Motorcycle, Car, and Truck.
+
+4.Each vehicle can only be parked in spots that fit it:
+
+5.Motorcycle can park in motorcycle, compact, or large spots.
+
+6.Car can park in compact or large spots.
+
+7.Truck can only park in large spots.
+
+The system should support the following operations:
+
+8.parkVehicle(vehicle) — parks the vehicle in an available spot.
+
+9.leaveSpot(vehicle) — frees up the spot occupied by the vehicle.
+
+10.getAvailableSpots(level, spotType) — returns number of available spots of a given type on a level.

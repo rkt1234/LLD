@@ -1,0 +1,7 @@
+Requirements 
+
+1.The system should allow you to:
+2.Add books.
+3.Register members.
+4.Issue books to members.
+5.eturn books.
